@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/webgl-demo/static/css/main.ba49ec77.chunk.css",
+    "main.js": "/webgl-demo/static/js/main.95dc91d5.chunk.js",
+    "main.js.map": "/webgl-demo/static/js/main.95dc91d5.chunk.js.map",
+    "runtime~main.js": "/webgl-demo/static/js/runtime~main.d40136e9.js",
+    "runtime~main.js.map": "/webgl-demo/static/js/runtime~main.d40136e9.js.map",
+    "static/js/2.a0cbadac.chunk.js": "/webgl-demo/static/js/2.a0cbadac.chunk.js",
+    "static/js/2.a0cbadac.chunk.js.map": "/webgl-demo/static/js/2.a0cbadac.chunk.js.map",
+    "index.html": "/webgl-demo/index.html",
+    "precache-manifest.8cc70e26a23dc932eddc0342415fd1c5.js": "/webgl-demo/precache-manifest.8cc70e26a23dc932eddc0342415fd1c5.js",
+    "service-worker.js": "/webgl-demo/service-worker.js",
+    "static/css/main.ba49ec77.chunk.css.map": "/webgl-demo/static/css/main.ba49ec77.chunk.css.map",
+    "static/media/logo.svg": "/webgl-demo/static/media/logo.ee7cd8ed.svg"
+  }
+}
